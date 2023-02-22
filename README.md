@@ -1,5 +1,5 @@
 # Assembly-Work
-4 Assembly x86 applications
+4 Assembly x86 applications including Binary-Translator (1)
 
  Cerinta 1
 Fie dat ca input un sir hexa, se cere sa se afiseze la standard output instructiunea assembly de
